@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-misal-b772a9137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-misal-b772a9137/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suraj-misal-b772a9137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-misal-b772a9137/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suraj_misal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suraj_misal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/surajmisal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surajmisal18" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/surajmisal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="surajmisal18" height="30" width="40" /></a>
